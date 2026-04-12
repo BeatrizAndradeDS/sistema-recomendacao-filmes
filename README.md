@@ -177,7 +177,7 @@ dados/
 
 ---
 
-## Habilidades usadas
+## Conceitos e técnicas
 
 ✅ Vetorização de texto  
 ✅ Processamento de linguagem natural  
@@ -189,7 +189,7 @@ dados/
 
 ## Melhorias Futuras
 
-- [ ] Implementar TF-IDF para melhor ponderação (frequência e raridade da aparição da palavra)? (Talvez)
+- [ ] Implementar TF-IDF para melhor ponderação (frequência e raridade da aparição da palavra)
 - [ ] Interface web com Streamlit
 - [ ] Incluir avaliações de usuários (ratings)
 
