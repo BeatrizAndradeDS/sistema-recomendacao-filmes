@@ -4,13 +4,17 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.1-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.3.0-green.svg)](https://pandas.pydata.org/)
 
-Sistema de recomendação de filmes baseado em filtragem por conteúdo usando Machine Learning. O sistema analisa características de filmes (gênero, elenco, diretor, sinopse) e recomenda títulos similares através de vetorização de texto e cálculo de similaridade de cosseno.
+Esse é um Sistema de recomendação de filmes baseado em filtragem por conteúdo usando Machine Learning. O sistema analisa características de filmes (gênero, elenco, diretor, sinopse) e recomenda títulos similares através de vetorização de texto e cálculo de similaridade de cosseno.
+
+<br/>
 
 ---
 
-## 🎬 Demonstração
+## Demonstração
 
 ![Sistema em Ação](images/demo.gif)
+
+<br/>
 
 ---
 
@@ -26,8 +30,10 @@ sistema_recomendacao('Avatar')
 # Titan A.E.
 ```
 
+<br/>
+
 <details>
-<summary>📊 <b>Ver mais exemplos de recomendações</b></summary>
+<summary> <b>Ver mais exemplos de recomendações</b></summary>
 
 | Filme Consultado | Top 5 Recomendações |
 |------------------|---------------------|
@@ -36,9 +42,12 @@ sistema_recomendacao('Avatar')
 
 </details>
 
+<br/>
+
+
 ---
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 ### **Objetivo**
 Construir um sistema inteligente que recomende 5 filmes similares ao que o usuário assistiu, mantendo-o engajado na plataforma.
@@ -53,25 +62,29 @@ Construir um sistema inteligente que recomende 5 filmes similares ao que o usuá
 - **Fonte:** [The Movie Database (TMDb)](https://developer.themoviedb.org/docs)
 - **Total:** 4.806 filmes processados
 
+<br/>
+
 ---
 
-## 🎯 Outras Aplicações
+## Outras Aplicações
 
 Esta mesma arquitetura de **filtragem baseada em conteúdo** pode ser aplicada em diversos contextos:
 
-- 🛒 **E-commerce:** Recomendar produtos similares com base em descrição, categoria e especificações
-- 📰 **Notícias:** Sugerir artigos relacionados usando tags, autor e conteúdo
-- 🎵 **Música:** Recomendar músicas por gênero, artista e características do áudio
-- 📚 **Livros:** Sugerir títulos similares baseado em autor, gênero e sinopse
-- 🏠 **Imóveis:** Recomendar propriedades por localização, características e valor
-- 💼 **Vagas:** Sugerir oportunidades baseado em skills, área e descrição
-- 🎮 **Games:** Recomendar jogos similares por gênero, desenvolvedora e gameplay
+- **E-commerce:** Recomendar produtos similares com base em descrição, categoria e especificações
+- **Notícias:** Sugerir artigos relacionados usando tags, autor e conteúdo
+- **Música:** Recomendar músicas por gênero, artista e características do áudio
+- **Livros:** Sugerir títulos similares baseado em autor, gênero e sinopse
+- **Imóveis:** Recomendar propriedades por localização, características e valor
+- **Vagas:** Sugerir oportunidades baseado em skills, área e descrição
+- **Games:** Recomendar jogos similares por gênero, desenvolvedora e gameplay
 
-**Conceito-chave:** Qualquer problema onde você precisa encontrar itens similares baseado em suas características pode usar essa técnica.
+**Conceito-chave:** Qualquer problema onde você precise encontrar itens similares baseado nas suas características é possível usar essa técnica.
+
+<br/>
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ```python
 Python 3.13
@@ -83,23 +96,27 @@ Python 3.13
 └── nltk 3.9.1            # NLP e stemming
 ```
 
+<br/>
+
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 <details>
-<summary><b>📥 Clique para ver as instruções de instalação</b></summary>
+<summary><b> Clique para ver as instruções de instalação</b></summary>
 
 ### **Pré-requisitos**
 - Python 3.8 ou superior
 - pip instalado
 - Jupyter Notebook
 
+<br/>
+
 ### **Passo a passo**
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/biasandrade/sistema-recomendacao-filmes.git
+git clone https://github.com/BeatrizAndradeDS/sistema-recomendacao-filmes.git
 
 # 2. Entre na pasta do projeto
 cd sistema-recomendacao-filmes
@@ -160,9 +177,7 @@ dados/
 
 ---
 
-## 📚 Aprendizados
-
-**Habilidades desenvolvidas:**
+## Habilidades usadas
 
 ✅ Vetorização de texto  
 ✅ Processamento de linguagem natural  
@@ -172,7 +187,7 @@ dados/
 
 ---
 
-## 🔮 Melhorias Futuras
+## Melhorias Futuras
 
 - [ ] Implementar TF-IDF para melhor ponderação (frequência e raridade da aparição da palavra)? (Talvez)
 - [ ] Interface web com Streamlit
@@ -180,19 +195,17 @@ dados/
 
 ---
 
-## 👩‍💻 Autora
+## Sobre mim
 
 **Beatriz Andrade**  
-Cientista de Dados | 18 anos de experiência com análise de dados
+Cientista de Dados | 18 anos de experiência em análise de dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Andrade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrade-beatriz/)
 [![Email](https://img.shields.io/badge/Email-biasandrade%40gmail.com-red?style=flat&logo=gmail)](mailto:biasandrade@gmail.com)
 
 ---
 
-Este projeto faz parte do curso "Matemática e Estatística Aplicada Para Data Science, Machine Learning e IA" do curso de Pós-graduação em Data Science da Data Science Academy.
-
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
 
