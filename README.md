@@ -110,8 +110,6 @@ Python 3.13
 - pip instalado
 - Jupyter Notebook
 
-<br/>
-
 ### **Passo a passo**
 
 ```bash
@@ -148,7 +146,11 @@ dados/
 └── dataset_elenco.csv
 ```
 
+<br/>
+
 </details>
+
+<br/>
 
 ---
 
@@ -157,33 +159,18 @@ dados/
 <details>
 <summary><b>Clique para expandir os conceitos técnicos</b></summary>
 
-### **Matemática e Estatística**
-- Álgebra Linear (vetores e espaços vetoriais)
-- Distância de cosseno
-- Similaridade entre vetores multidimensionais
+<br/>
 
-### **Machine Learning**
-- Aprendizado não supervisionado
-- Sistemas de recomendação baseados em conteúdo
-- Feature engineering
+| Área | Técnicas |
+|---|---|
+| Matemática & Estatística | Álgebra linear, distância de cosseno, similaridade vetorial |
+| Machine Learning | Aprendizado não supervisionado, filtragem por conteúdo, feature engineering |
+| NLP | Tokenização, stemming, Bag of Words, Term Frequency |
 
-### **NLP**
-- Tokenização
-- Stemming (Porter Stemmer)
-- Bag of Words (BoW) (texto em números)
-- Term Frequency (frequência da aparição da palavra)
 
 </details>
 
----
-
-## Conceitos e técnicas
-
-✅ Vetorização de texto  
-✅ Processamento de linguagem natural  
-✅ Cálculo de similaridade  
-✅ Sistemas de recomendação  
-✅ Feature engineering  
+<br/>
 
 ---
 
