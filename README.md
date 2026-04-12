@@ -130,7 +130,7 @@ pip install -r requirements.txt
 jupyter notebook Projeto1_Filme_BeatrizAndrade.ipynb
 ```
 
-### **📂 Obtendo os Dados**
+### **Obtendo os Dados**
 
 ⚠️ Os arquivos CSV não estão incluídos no repositório devido ao tamanho (>25MB).
 
@@ -152,7 +152,7 @@ dados/
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 <details>
 <summary><b>Clique para expandir os conceitos técnicos</b></summary>
