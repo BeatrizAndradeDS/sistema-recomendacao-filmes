@@ -35,6 +35,8 @@ sistema_recomendacao('Avatar')
 <details>
 <summary> <b>Ver mais exemplos de recomendações</b></summary>
 
+<br/>
+ 
 | Filme Consultado | Top 5 Recomendações |
 |------------------|---------------------|
 | **Avengers: Age of Ultron** | Iron Man 3, Iron Man 2, Iron Man, Thor, The Avengers |
@@ -136,8 +138,8 @@ jupyter notebook Projeto1_Filme_BeatrizAndrade.ipynb
 - [TMDb API](https://developer.themoviedb.org/docs)
 
 **Opção 2:** Entre em contato
-- 📧 biasandrade@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrade-beatriz/)
+- biasandrade@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/andrade-beatriz/)
 
 Coloque os arquivos na pasta `dados/`:
 ```
@@ -145,7 +147,6 @@ dados/
 ├── dataset_filmes.csv
 └── dataset_elenco.csv
 ```
-
 <br/>
 
 </details>
@@ -180,6 +181,8 @@ dados/
 - [ ] Interface web com Streamlit
 - [ ] Incluir avaliações de usuários (ratings)
 
+<br/>
+
 ---
 
 ## Sobre mim
@@ -190,11 +193,15 @@ Cientista de Dados | 18 anos de experiência em análise de dados
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Andrade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrade-beatriz/)
 [![Email](https://img.shields.io/badge/Email-biasandrade%40gmail.com-red?style=flat&logo=gmail)](mailto:biasandrade@gmail.com)
 
+<br/>
+
 ---
 
 ## Licença
 
 Este projeto está sob a licença MIT.
+
+<br/>
 
 ---
 
