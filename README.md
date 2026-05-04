@@ -188,7 +188,7 @@ dados/
 ## Sobre mim
 
 **Beatriz Andrade**  
-Cientista de Dados | 18 anos de experiência em análise de dados
+18 anos trabalhando com dados e agora também com Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Andrade-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrade-beatriz/)
 [![Email](https://img.shields.io/badge/Email-biasandrade%40gmail.com-red?style=flat&logo=gmail)](mailto:biasandrade@gmail.com)
